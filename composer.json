@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fukuball/jieba-php": "dev-master",
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
